@@ -1,0 +1,30 @@
+body {
+    background-color: #568FD8;
+  }
+  .actions {
+    text-align: center;
+  }
+  .ai {
+    background-image: url('./Images/ai.jpg');
+  }
+  .container {
+    margin: 50px auto;
+    min-width: 300px;
+    max-width: 500px;
+  }
+  .cell {
+    background-color: #568FD8;
+    border: 1px solid white;
+    float: left;
+    height: 96px;
+    width: 96px;
+  }
+  .cell:hover {
+    background-color: #6698D8;
+  }
+  .player {
+    background-image: url('./Images/player.jpg');
+  }
+ 
+   
+  
